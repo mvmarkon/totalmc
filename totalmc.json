@@ -1,0 +1,8 @@
+{
+	"name": "Total Media Player",
+	"path": "/totalmcfiles",
+	"local": {
+		"audio":[],
+		"video":[]
+	}
+}
